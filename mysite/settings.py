@@ -25,7 +25,7 @@ SECRET_KEY = '=@3ka%s*ojy5dznp=gs0&z*u(h&egtoq7&x2z9k)%a%l)bb@w!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ mortyre.pythonanywhere.com ]
 
 
 # Application definition
